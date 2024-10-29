@@ -19,7 +19,7 @@ A temporary solution is to use the client token from the browser:
 These tokens will eventually get invalidated and replaced with api keys
 
 ## Usage
-See
+See index.ts, modify to your liking.
 
 ```
 import { NewcoinListener } from "./agents/listener";
